@@ -6,11 +6,16 @@ body {
     background-color: #2f9b65;  
 }  
 
+
+
+
 .calculator {  
-    background-color: #00c542;  
+    background-color: #6C757D;  
     padding: 20px;  
     border-radius: 10px;  
     box-shadow: 0 0 10px rgba(2, 247, 112, 0.1);  
+    
+
 }  
 
 #display {  
@@ -33,3 +38,10 @@ button {
     cursor: pointer;  
 }  
 
+.red {  
+    background-color: #DC3545; 
+} 
+
+.amarelo{
+    background-color: #FFC107;
+}
