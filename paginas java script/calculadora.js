@@ -17,6 +17,4 @@ function calculateResult() {
     } catch (error) {  
         document.getElementById('display').value = 'Erro';  
     }  
-}  
-
-
+}
